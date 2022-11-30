@@ -1,2 +1,2 @@
-#!/bash/bin
-ls -la $'\n'
+#!/bin/bash
+ls -a
